@@ -8,7 +8,7 @@ BOM:
 - 1x EC11 Rotary Encoder
 - 2x SK6812 MINI Leds
 - 1x XIAO RP2040
-- 4x Blank DSA Keycaps
+- 5x Blank DSA Keycaps
 - 4x M3x16 Bolt
 - 4x M3 Heatset
 
