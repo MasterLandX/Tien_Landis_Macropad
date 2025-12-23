@@ -1,7 +1,21 @@
 # Tien_Landis_Macropad
-My macropad design with aa
+My Macropad design using 5 keys along with a rotary encoder.
 
-n ec11 rotary encoder and 5 other buttons.
+### Specifications
+
+BOM: 
+- 5x Kalih Box Jade Switches
+- 1x EC11 Rotary Encoder
+- 2x SK6812 MINI Leds
+- 1x XIAO RP2040
+- 4x Blank DSA Keycaps
+- 4x M3x16 Bolt
+- 4x M3 Heatset
+
+Others:
+- KMK Firmware
+- Top Case.stl 
+- Bottom Case.stl
 
 
 
