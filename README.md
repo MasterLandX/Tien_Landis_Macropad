@@ -1,5 +1,6 @@
 # Tien_Landis_Macropad
 My Macropad design using 5 keys along with a rotary encoder.
+<img width="1063" height="681" alt="Screenshot 2025-12-23 at 2 44 42 PM" src="https://github.com/user-attachments/assets/4042e01e-6a9a-4dd0-8181-c2300cc0303a" />
 
 ### Specifications
 
